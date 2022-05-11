@@ -12,6 +12,8 @@
 *.ini
 *.groupproj
 *.pdf
+*.xml
+*.deployproj
 **/Android64
 **/Android32
 **/temp
